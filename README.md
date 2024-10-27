@@ -1,7 +1,7 @@
 # Endless Runner Game
 
 ## About the Project
-This **Endless Runner Game** is a Unity-based 3D endless runner inspired by N3ks' tutorial on creating infinite runners. The project was modified and customized using free Unity game assets, adding unique gameplay elements to create an original experience. This project is part of the Maliyo Game Week 9 assignment.
+This **Endless Runner Game** is a Unity-based 3D endless runner inspired by N3ks' tutorial on creating infinite runners. While the project is based on the tutorial, it has been modified significantly using free Unity game assets to create a unique experience. Please note that the project is currently incomplete, particularly in terms of UI elements and overall polish. This project serves as part of the Maliyo Game Week 9 assignment.
 
 ## Objectives
 - **Learn from Tutorials**: Utilize the N3ks tutorial as a foundation for understanding endless runner mechanics.
@@ -15,7 +15,10 @@ This **Endless Runner Game** is a Unity-based 3D endless runner inspired by N3ks
 - **In-Game Shop**: Allows players to buy power-ups and items for the running character.
 - **Google Play Games Integration**: Includes leaderboards and achievements to boost player engagement.
 - **Unity Ads Integration**: Adds ad-based revenue potential for longevity and monetization.
-- **Unity Free Assets**: Utilizes available assets from the Unity Asset Store to create a visually rich game.
+- **Unity Free Assets**: Utilizes available assets from the Unity Asset Store to enhance the visual appeal of the game.
+
+## Current Status
+- The project is still a work in progress, especially regarding UI elements. Future updates will focus on refining the user interface and improving overall gameplay experience.
 
 ## Getting Started
 
@@ -26,4 +29,4 @@ This **Endless Runner Game** is a Unity-based 3D endless runner inspired by N3ks
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/endless-runner-game.git
+   git clone https://github.com/Heiliger-Paul/Endless-running.git
