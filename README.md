@@ -1,7 +1,7 @@
 # Endless Runner Game
 
 ## About the Project
-This **Endless Runner Game** is a Unity-based 3D endless runner inspired by N3ks' tutorial on creating infinite runners. While the project is based on the tutorial, it has been modified significantly using free Unity game assets to create a unique experience. Please note that the project is currently incomplete, particularly in terms of UI elements and overall polish. This project serves as part of the Maliyo Game Week 9 assignment.
+This **Endless Runner Game** is a Unity-based 3D endless runner inspired by N3ks' tutorial on creating infinite runners. While the project is based on the tutorial, it has been modified significantly using free Unity game assets to create a unique experience. Please note that the project is currently incomplete, particularly in terms of UI elements and overall polish. This project serves as part of the Maliyo Game Week 8 assignment.
 
 ## Objectives
 - **Learn from Tutorials**: Utilize the N3ks tutorial as a foundation for understanding endless runner mechanics.
