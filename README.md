@@ -23,7 +23,7 @@ This **Endless Runner Game** is a Unity-based 3D endless runner inspired by N3ks
 ## Getting Started
 
 ### Prerequisites
-- **Unity Engine** (version 2019.4 or higher recommended)
+- **Unity Engine** (version 2018.4 or higher recommended)
 - Basic understanding of C# and Unity, as well as familiarity with third-party asset integration
 
 ### Installation
